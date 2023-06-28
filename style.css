@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("img/sss.jpg");
+    background-size: cover ;
+
+}
+.box{
+    width: 1000px;
+    height: 600px;
+    background: rgba(128, 125, 125, 0.79);
+    padding: 40px;
+
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+}
+.box-img{
+    border-radius: 50% ;
+    width: 350px;
+    height: 350px;
+    transform-style: preserve-3d;
+
+}
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    margin-top: 20px;
+
+}
+.box h5{
+    font-size: 18px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin: 20px 0;
+}
+.box p{
+    text-align: justify;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+.box li{
+    display: inline-block;
+    margin: 20px;
+    list-style: none;
+}
+.box li a{
+    color: white;
+    text-decoration: none;
+    font-size: 90px;
+    transition: all ease-in-out 250ms;
+}
+.box li a:hover{
+    color: rgba(113, 30, 126, 0.81);
+
+}
+
+.box1{
+    width: 1700px;
+    background: rgba(124, 124, 124, 0.84);
+    padding: 40px;
+    border-radius: 0 ;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+}
+
+
+.box1 p{
+    text-align: justify;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+figure#burnsbox {
+    overflow: hidden;
+    position: relative;
+    padding-top: 30%;
+    width: 50%;
+    margin: 0 auto;
+}
+figure#burnsbox img {
+    animation: zoom 12s alternate infinite;
+    position: absolute;
+    top: 0; left:-5%; width: 110%; height: 110%;
+}
+
+
+
+
+.cross{
+    width: 50px;
+    height: 50px;
+    top: 50px;
+    left: 40px;
+    filter: blur(4px);
+    opacity: 0.6;
+
+}
+
+
+.jumbotron{
+    left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
